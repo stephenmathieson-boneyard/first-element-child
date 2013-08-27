@@ -18,6 +18,7 @@ module.exports = function (element) {
  * @param {HTMLElement} element
  * @return {HTMLElement}
  */
+
 function fallback(element) {
   for (var node = element.firstChild; node; node = node.nextSibling) {
     if (node.nodeType === 1) {
