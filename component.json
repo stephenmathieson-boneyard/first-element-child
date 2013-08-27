@@ -2,7 +2,7 @@
   "name": "first-element-child",
   "repo": "stephenmathieson/first-element-child",
   "description": "Element#firstElementChild component",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {},
   "development": {
