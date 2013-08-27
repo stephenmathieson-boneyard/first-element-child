@@ -1,0 +1,17 @@
+{
+  "name": "first-element-child",
+  "repo": "stephenmathieson/first-element-child",
+  "description": "Element#firstElementChild component",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
